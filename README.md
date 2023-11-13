@@ -1,5 +1,6 @@
 # GeneralPhysicsLab2 - Fall 2023 
-- TA: Hadis Sadry
-## Sharif University of Technology - Group 01
+### Sharif University of Technology - Group 01
+#### TA: Hadis Sadry
+
 - Moeein Aali
 - Amirhossein Soori
